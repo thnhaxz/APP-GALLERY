@@ -113,26 +113,3 @@ http://localhost:5173
 * DELETE `/photos/{id}` → xóa
 * GET `/photos/search/{keyword}` → tìm kiếm
 
----
-
-## ⚠️ Lưu ý
-
-* Thư mục `uploads/` phải tồn tại để lưu ảnh
-* Không push:
-
-  * `venv/`
-  * `node_modules/`
-  * `gallery.db`
-  * `uploads/`
-
----
-
-## 👨‍💻 Tác giả
-
-* Student Project (FastAPI + React)
-
----
-
-## ⭐ Ghi chú
-
-Project phục vụ mục đích học tập và thực hành xây dựng web fullstack.
